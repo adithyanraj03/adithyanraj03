@@ -1,8 +1,5 @@
 ## Hi there , I am Adithya N Raj 👋
 
-## Social
-[![Linkedin Badge](https://img.shields.io/badge/-Adithya_N_Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adithya-n-raj-609589230/)](https://www.linkedin.com/in/adithya-n-raj-609589230/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@adithyanraj03)
 
 ## Languages & Libraries
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)

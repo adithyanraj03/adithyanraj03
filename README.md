@@ -1,4 +1,4 @@
-## Hi there , I am Adithya N Raj👋
+## Hi there , I am Adithya N Raj 👋
 
 ## Social
 [![Linkedin Badge](https://img.shields.io/badge/-Adithya_N_Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adithya-n-raj-609589230/)](https://www.linkedin.com/in/adithya-n-raj-609589230/)

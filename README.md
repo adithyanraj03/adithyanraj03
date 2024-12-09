@@ -1,5 +1,5 @@
-## Hi there , I am Adithya N Raj 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Adithya+N+Raj+%F0%9F%91%8B)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Final+Year+Student+in+CSE+AI+%26+ML;Passionate+Researcher;Game+Developer;Ethical+Hacking+Enthusiast)](https://git.io/typing-svg)
 
 ## Languages & Libraries
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)

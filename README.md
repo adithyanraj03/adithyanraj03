@@ -43,7 +43,6 @@
 [![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Perplexity](https://img.shields.io/badge/Perplexity-AI-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADNSURBVHgBjZLBDcIwDEU/VQdghA7ACGwAG8AIsAFsABvABjACI8AGMAIj0Df4KI0gIE+yYif+sZO6Euthh4OUkpBSIqV0ZOY98/d3Hs3M4XvBGAMcx/lF8bnFjoJLKc+mRKWUm6lZazfvfQ/5PGLmCSHMJNKqbdtdURQ7kl9prReEtdauJN+I+ItCCA+Sp7quB/mHUmoADCSPfd8fJ3JxwtmIGt0cAqXUleSNpC/LoTDzKsZ45Yw7pRQXRbFgyCHG+JrJf4Gr6/oyn/wGRlyRGANZXHAAAAAASUVORK5CYII=)](https://www.perplexity.ai/)
 [![Claude](https://img.shields.io/badge/Claude-AI-purple?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 [![Bito](https://img.shields.io/badge/Bito-AI-orange?style=for-the-badge&logo=bito&logoColor=white)](https://bito.ai/)
 

@@ -17,6 +17,7 @@
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
+[![Inno Setup](https://img.shields.io/badge/Inno%20Setup-5CBCEB?style=for-the-badge&logo=innosetup&logoColor=white)](https://jrsoftware.org/isinfo.php)
 
 ## Frameworks & Tools
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)

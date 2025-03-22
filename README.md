@@ -15,7 +15,6 @@
 [![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)](https://www.perl.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=white)](https://www.uml.org/)
 [![Inno Setup](https://img.shields.io/badge/Inno%20Setup-5CBCEB?style=for-the-badge&logo=innosetup&logoColor=white)](https://jrsoftware.org/isinfo.php)
 [![Pascal](https://img.shields.io/badge/Pascal-3670A0?style=for-the-badge&logo=pascal&logoColor=white)](https://www.freepascal.org/)
@@ -44,7 +43,11 @@
 [![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-
+[![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)](https://mlflow.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-%2347A141.svg?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
+[![Vector Shift](https://img.shields.io/badge/Vector%20Shift-%23764ABC.svg?style=for-the-badge&logo=vector-shift&logoColor=white)](https://github.com/topics/vector-shift)
+[![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai/)
 
 ## Databases & Cloud Platforms 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)

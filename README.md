@@ -42,8 +42,7 @@
 [![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-[![Claude](https://img.shields.io/badge/Claude-AI-purple?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
-[![Bito](https://img.shields.io/badge/Bito-AI-orange?style=for-the-badge&logo=bito&logoColor=white)](https://bito.ai/)
+
 
 ## Databases & Cloud Platforms 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)

@@ -48,6 +48,7 @@
 [![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
 [![Vector Shift](https://img.shields.io/badge/Vector%20Shift-%23764ABC.svg?style=for-the-badge&logo=vector-shift&logoColor=white)](https://vectorshift.ai/)
 [![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai/)
+[![DVC](https://img.shields.io/badge/DVC-%23945DD6.svg?style=for-the-badge&logo=dvc&logoColor=white)](https://dvc.org/)
 
 ## Databases & Cloud Platforms 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)

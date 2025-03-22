@@ -46,7 +46,7 @@
 [![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)](https://mlflow.org/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-%2347A141.svg?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
 [![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
-[![Vector Shift](https://img.shields.io/badge/Vector%20Shift-%23764ABC.svg?style=for-the-badge&logo=vector-shift&logoColor=white)](https://github.com/topics/vector-shift)
+[![Vector Shift](https://img.shields.io/badge/Vector%20Shift-%23764ABC.svg?style=for-the-badge&logo=vector-shift&logoColor=white)](https://vectorshift.ai/)
 [![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai/)
 
 ## Databases & Cloud Platforms 
